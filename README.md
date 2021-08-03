@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Reem, I hope to become a full stack engineer , Iam studying Computer Systems Engineering At Al-Azhar university .
-Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) at code Academy
+Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) as a code Academy student
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
