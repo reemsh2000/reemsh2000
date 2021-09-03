@@ -28,7 +28,7 @@ Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) as a code
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing websites.
-  - 🎓 &nbsp; study Computer System Engineering.
+  - 🎓 &nbsp; study Computer Systems Engineering.
   - 🌱 &nbsp; Keep Learning about Backend  and Frontend Developement. 
 </div> 
 
