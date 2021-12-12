@@ -32,7 +32,7 @@ Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) as a code
   - 🌱 &nbsp; Keep Learning about Backend  and Frontend Developement. 
 </div> 
 
-![age](https://img.shields.io/badge/age-20-blue)
+![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-Palestine-3c9)
 
