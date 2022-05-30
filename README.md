@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 </p> -->
 <!-- <br>
 <br> -->
-I am Reem, I hope to become a full stack engineer , Iam studying Computer Systems Engineering At Al-Azhar university .
-Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) as a code Academy graduated student
-
+I am Reem, I am a full-stack engineer, I am studying Computer Systems Engineering At Al-Azhar university.
+I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/gazaskygeeks) 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
