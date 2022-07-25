@@ -57,7 +57,10 @@ I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/ga
 <br/><br/>
  My GitHub Stats :
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?&username=reemsh2000&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800"/>
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=reemsh2000&theme=dark&show_icons=true&count_private=true" />
+</div>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reemsh2000&hide_title=true&langs_count=4" /> </a>
 
 
