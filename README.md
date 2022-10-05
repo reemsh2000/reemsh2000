@@ -28,10 +28,11 @@ I am studying Computer Systems Engineering At Al-Azhar university.
 I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/gazaskygeeks) 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-
+  - 🌱 &nbsp; Working as a Front end developer using Angular. 
+  - 🎓 &nbsp; A fifth level Computer Systems Engineering student.
   - 🤔 &nbsp; Exploring new technologies and developing websites.
-  - 🎓 &nbsp; study Computer Systems Engineering.
-  - 🌱 &nbsp; Keep Learning about Backend  and Frontend Developement. 
+  
+
 </div> 
 
 ![age](https://img.shields.io/badge/age-21-blue)
