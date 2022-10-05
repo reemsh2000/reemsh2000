@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 </p> -->
 <!-- <br>
 <br> -->
-I am Reem, I am a full-stack engineer, Iam working as Angular developer at Unit One.
+I am Reem, I am a full-stack engineer, working as Angular developer at Unit One.
 <br/>
 I am studying Computer Systems Engineering At Al-Azhar university.
 <br/>
-I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/gazaskygeeks) 
+I am a code Academy graduated student  from [Gaza Sky Geeks](https://github.com/gazaskygeeks) 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
+    
   - 🌱 &nbsp; Working as a Front end developer using Angular. 
   - 🎓 &nbsp; A fifth level Computer Systems Engineering student.
   - 🤔 &nbsp; Exploring new technologies and developing websites.
