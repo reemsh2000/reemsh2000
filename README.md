@@ -30,7 +30,7 @@ I am a Code Academy graduated student  from [Gaza Sky Geeks](https://github.com/
   <h3> 👨🏻‍💻 About Me </h3>
     
   - 🌱 &nbsp; Working as a Front end developer using Angular. 
-  - 🎓 &nbsp; A fifth level Computer Systems Engineering student.
+  - 🎓 &nbsp; A Computer Systems Engineer.
   - 🤔 &nbsp; Exploring new technologies and developing websites.
   
 
