@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <br> -->
 I am Reem, I am a full-stack engineer, working as Angular developer at Unit One.
 <br/>
-I am studying Computer Systems Engineering At Al-Azhar university.
+I graduated from Al-Azhar University with a degree in Computer Systems Engineering.
 <br/>
-I am a code Academy graduated student  from [Gaza Sky Geeks](https://github.com/gazaskygeeks) 
+I am a Code Academy graduated student  from [Gaza Sky Geeks](https://github.com/gazaskygeeks) 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
     
