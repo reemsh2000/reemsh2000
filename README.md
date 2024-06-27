@@ -25,11 +25,11 @@ I am Reem, I am a full-stack engineer, working as Angular developer at Master Te
 <br/>
 I graduated from Al-Azhar University with a degree in Computer Systems Engineering.
 <br/>
-I am a Code Academy graduated student  from [Gaza Sky Geeks](https://github.com/gazaskygeeks) 
+I am a Code Academy graduate student  from [Gaza Sky Geeks](https://github.com/gazaskygeeks) 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
     
-  - 🌱 &nbsp; Working as a Front end developer using Angular. 
+  - 🌱 &nbsp; Working as a front-end developer using Angular. 
   - 🎓 &nbsp; A Computer Systems Engineer.
   - 🤔 &nbsp; Exploring new technologies and developing websites.
   
