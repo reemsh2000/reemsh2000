@@ -36,7 +36,7 @@ I am a Code Academy graduate student  from [Gaza Sky Geeks](https://github.com/g
 
 </div> 
 
-![age](https://img.shields.io/badge/age-24-blue)
+![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-Palestine-3c9)
 
